@@ -1,0 +1,17 @@
+{
+  "name": "zero-ao-deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ricardotecnicob/zero-ao-deploy.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
